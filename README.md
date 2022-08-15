@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bikkubs97
+- 👋 Hi, I’m Bikku.B.S @bikkubs97
 - 👀 I’m interested in UX design and Web development
 - 🧑‍🎨  "Art challenges technology,👨‍💻 Technology inspires art" - John Lassetter
 

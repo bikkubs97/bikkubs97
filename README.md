@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bikku.B.S @bikkubs97
-- 👀 I’m interested in Full-stack development and UX design
+- 👀 I’m interested in MERN-stack development and UX design
 - 🧑‍🎨  "Art challenges technology,👨‍💻 Technology inspires art" - John Lassetter
 
 <!---
